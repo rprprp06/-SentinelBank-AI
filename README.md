@@ -1,3 +1,6 @@
+[demo video.zip](https://github.com/user-attachments/files/30019978/demo.video.zip)
+
+
 # 🏦 SentinelBank AI
 
 # Intelligent Banking Security & Credit Risk Assessment Platform
