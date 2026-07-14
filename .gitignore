@@ -9,3 +9,6 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+# Ignore large generated and dataset files
+application_record.csv.csv
+credit_card_model.pkl
